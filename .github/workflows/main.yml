@@ -20,4 +20,4 @@ jobs:
           server: "ftp.bootcamp2024.my.id"
           username: "laracampfathur@bootcamp2024.my.id"
           password: "K^]TC2w!s2_#"
-          server-dir: /
+          server-dir:/
